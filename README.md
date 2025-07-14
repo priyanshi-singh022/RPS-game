@@ -11,7 +11,7 @@ This project showcases the use of **JavaScript logic**, **DOM manipulation**, an
 
 ## 🕹️ Live Demo
 
-> [Play the Game Here](#) — _Replace with your deployed link_
+> (https://pikupika.github.io/RPS-game/)
 
 ---
 
