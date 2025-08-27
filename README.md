@@ -11,7 +11,7 @@ This project showcases the use of **JavaScript logic**, **DOM manipulation**, an
 
 ## 🕹️ Live Demo
 
-> (https://pikupika.github.io/RPS-game/)
+> [Click here](https://priyanshi-singh022.github.io/RPS-game/)
 
 ---
 
